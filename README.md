@@ -1,8 +1,8 @@
-## What can is do for you?
+## What can this config do for you?
 - `C` to jumpthrow (need click `mouse-left` first) 
 - `F1` to fly (if possible)
 - `F5` to kill yourself
-- More settings for test mode.
+- More better settings for test mode.
 
 ## How to use? 
 1. Copy it to Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\
